@@ -1,0 +1,7 @@
+*.iml
+*.ipr
+*.iws
+.gitignore
+.git
+Dockerfile
+.dockerignore
