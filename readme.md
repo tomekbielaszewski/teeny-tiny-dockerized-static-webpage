@@ -32,3 +32,7 @@ docker run -it --rm -p 3000:3000 static:latest
 ## Public image
 
 `tomekbielaszewski/tiny-static-webpage:latest`
+
+### Sources
+
+[The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
