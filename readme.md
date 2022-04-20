@@ -28,3 +28,7 @@ when you want to run `thttpd` wrapped in a little shell script that restarts it 
 docker build -t static:latest .
 docker run -it --rm -p 3000:3000 static:latest
 ```
+
+## Public image
+
+`tomekbielaszewski/tiny-static-webpage:latest`
