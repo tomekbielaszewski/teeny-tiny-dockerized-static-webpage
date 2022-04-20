@@ -5,3 +5,4 @@
 .git
 Dockerfile
 .dockerignore
+readme.md
