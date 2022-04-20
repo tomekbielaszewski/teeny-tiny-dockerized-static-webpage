@@ -1,9 +1,9 @@
 # A Teeny tiny static webpage in docker
 
-This static webpage hosting sample uses `thttpd` executable as a super tiny, single executable static 
+This example hosts a tiny static file using `thttpd` executable which is single executable static 
 file server.
 
-In this example running `thttpd` is done in following manner:
+In this example I executed `thttpd` in following manner:
 
 `thttpd -D -h 0.0.0.0 -p 3000 -d /static-website -u static -l - -M 60`
 
